@@ -1,7 +1,7 @@
-Programmer DanHarving = new DanHarving(
-  name: "Dan Harving",
-  github: "@DanHarving",
-  email: "danharving@gmail.com",
-  pronouns: "he/him",
-  languages: {"C", "C++", "C#", "Python", "Java"},
+Programmer DanHarving = new DanHarving(<br>
+  name: "Dan Harving",<br>
+  github: "@DanHarving",<br>
+  email: "danharving@gmail.com",<br>
+  pronouns: "he/him",<br>
+  languages: {"C", "C++", "C#", "Python", "Java"},<br>
   intrests: {"Computer Science", "Chemistry"});
