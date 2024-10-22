@@ -1,4 +1,4 @@
-Programmer DanHarving = new DanHarving(<br>
+Programmer DanHarving = new Programmer(<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  name: "Dan Harving",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  github: "@DanHarving",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  email: "danharving@gmail.com",<br>
